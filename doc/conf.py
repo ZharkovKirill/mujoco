@@ -129,6 +129,7 @@ html_theme_options = {
         'wy-menu-vertical-background-color': '#0053d6',
         'wy-menu-vertical-color': 'white',
         'wy-nav-side-background-color': '#0053d6',
+        "use_download_button": True,
     },
     'dark_css_variables': {
         'at-color': '#ffaab7',
@@ -143,6 +144,7 @@ html_theme_options = {
         'wy-menu-vertical-background-color': '#0053d6',
         'wy-menu-vertical-color': 'white',
         'wy-nav-side-background-color': '#0053d6',
+        "use_download_button": True,
     },
     "use_download_button": True,
 }
