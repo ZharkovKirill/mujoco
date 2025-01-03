@@ -144,6 +144,7 @@ html_theme_options = {
         'wy-menu-vertical-color': 'white',
         'wy-nav-side-background-color': '#0053d6',
     },
+    "use_download_button": True,
 }
 
 for v in html_theme_options.values():
